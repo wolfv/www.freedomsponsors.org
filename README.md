@@ -133,6 +133,8 @@ To run unit tests, please refer to the [Testing](https://github.com/freedomspons
 Also, there is a fully-functional test-environment at http://ambtest.freedomsponsors.org.
 Feel free to use it as you like (might be useful when reading the code!). We provide no guarantee about the data on it though!
 
+Triggering a page build by bumping the master version.
+
 ## Licensing
 
 This software is licensed under the [AFFERO GENERAL PUBLIC LICENSE](http://www.gnu.org/licenses/agpl-3.0.html)
