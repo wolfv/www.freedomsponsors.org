@@ -1,0 +1,44 @@
+header {
+  padding: 10px 0;
+  margin-bottom: 20px;
+  background: #F5F5F5;
+}
+
+nav {
+  margin-top: 20px;
+}
+
+nav ul {
+  display: inline;
+  float: right;
+  list-style: none;
+}
+
+nav ul li {
+  display: inline-block;
+  float: left;
+  border-right: 1px solid #CCC;
+}
+
+nav a {
+  padding: 5px 10px;
+  margin: 0;
+  color: #000;
+}
+
+nav a:hover {
+  text-decoration: none;
+  background: #CCC;
+}
+
+tbody tr:first-child td {
+  border-top: none;
+}
+
+#front-big-input {
+  width: 100%;
+  padding: 10px 5px;
+  font-size: 25px;
+  line-height: 30px;
+  border: 3px solid #030;
+}
